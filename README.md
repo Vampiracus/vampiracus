@@ -4,8 +4,8 @@ Since school programming has been more to me than just writing code. Thinking ab
 
 Developing frontend for projects is just a perfect job for me. It not only offers unordinary problems but also lets me care about the end user, create nice user-friendly UIs and improve UX
 
-### 🛠 Known technologies
-React, Redux, HTML, CSS (SCSS), TypeScript, JavaScript, Linters (ESLing, StyleLint)
+### 🛠 Tech stack
+React, Redux, HTML, CSS (SCSS), TypeScript, JavaScript, Linters (ESLint, StyleLint)
 
 Node.JS, SQL (MySQL, PostgreSQL), C++
 
