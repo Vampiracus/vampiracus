@@ -1,35 +1,23 @@
 ### 👋 Intro
 
-Since school programming has been more to me than just writing code. Thinking about how to solve a given problem is always interesting. Finding an effective algorithm is hard, but rewarding and fun.
+#### Finding effective algorithms is hard, but fun.
 
-Developing frontend for projects is just a perfect job for me. It not only offers unordinary problems but also lets me care about the end user, create nice user-friendly UIs and improve UX
+Developing frontend for projects not only offers unordinary problems but also lets one care about the end user, create nice user-friendly UIs and improve UX. That is why I am into it
 
-### 🛠 Tech stack
-React, Redux, HTML, CSS (SCSS), TypeScript, JavaScript, Linters (ESLint, StyleLint)
-
-Node.JS, SQL (MySQL, PostgreSQL), C++
+### 🛠 Tools and languages
+- React, Redux
+- HTML, CSS (SCSS), JavaScript
+- TypeScript
+- Linters (ESLint, StyleLint)
+- Node.JS
+- SQL (MySQL, PostgreSQL)
+- C++, Python
 
 I also have experience with Linux-based operating systems and find them very handy for developers.
 
-<!--
-<table style='text-align: center'>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <td colspan=2>TypeScript</td>
-  </tr>
-  <tr>
-    <td>React</td>
-    <td>Node JS</td>
-  </tr>
-  <tr>
-    <td>SCSS</td>
-    <td>MySQL, PostgreSQL</td>
-  </tr>
-</table> 
--->
+### 📚 Education
+- «Software engineering», bachelor's degree, Moscow Engineering Physics Institute (2021-2025)
+- «Middle Frontend Developer», internet course, Yandex Practicum (2024, 6 months)
 
 ### 👓 Contacts
 Actively looking for a job
