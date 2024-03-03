@@ -20,7 +20,6 @@ I also have experience with Linux-based operating systems and find them very han
 - «Middle Frontend Developer», internet course, Yandex Practicum (2024, 6 months)
 
 ### 👓 Contacts
-Actively looking for a job
 
 makca2003@vk.com
 
