@@ -2,14 +2,16 @@
 
 #### Finding effective algorithms is hard, but fun.
 
-Developing frontend for projects not only offers unordinary problems but also lets one care about the end user, create nice user-friendly UIs and improve UX. That is why I am into it
+Developing frontend for projects not only offers unordinary problems but also lets one care about the end user, create nice user-friendly and accessible UIs and improve UX. That is why I am into it
 
 ### 🛠 Tools and languages
-- React, Redux
-- HTML, CSS (SCSS), JavaScript
-- TypeScript
-- Linters (ESLint, StyleLint)
+- React, Redux, Next.JS
+- HTML, CSS (SCSS), JavaScript, TypeSctipt
+- Vite
+- Linters (ESLint, StyleLint, PostCSS)
+- Jest, Testplane (a.k.a. Hermione)
 - Node.JS
+- Nginx
 - SQL (MySQL, PostgreSQL)
 - C++, Python
 
